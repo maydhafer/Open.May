@@ -1,3 +1,5 @@
+![Project Header](May%20Dhafer.png)
+
 # Claude Code Telegram Relay
 
 **A pattern for running Claude Code as an always-on Telegram bot.**
